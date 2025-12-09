@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Large data files
+src/data/sales.json
+*.xlsx
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
